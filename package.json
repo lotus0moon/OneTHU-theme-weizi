@@ -1,0 +1,9 @@
+{
+  "name": "onethu-theme-weizi",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "魏紫 —— OneTHU 暗色主题插件（非官方创作）",
+  "license": "MIT",
+  "scripts": { "test": "node test.mjs" }
+}
