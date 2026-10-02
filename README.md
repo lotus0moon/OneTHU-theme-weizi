@@ -15,7 +15,7 @@
 | `dark` | `true`（深色外观，注入 `color-scheme: dark`） |
 | `description` | 深紫纸面，非官方创作，与清华大学无关；语音遮罩改为深色半透明。（31 字，上限 42） |
 | `repo` | `https://github.com/lotus0moon/OneTHU-theme-weizi`（仓库根即本目录，市场按仓库根找 `plugin.js`） |
-| 入口文件 | `plugin.js`（5796B / 112 行，单文件 ES 模块） |
+| 入口文件 | `plugin.js`（6017B / 114 行，单文件 ES 模块） |
 
 与亮色主题同一枚 logo、同一套圆角，只有令牌取值与附加 CSS 数量不同。
 
